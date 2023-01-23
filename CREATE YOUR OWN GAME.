@@ -1,0 +1,17 @@
+CREATE YOUR OWN GAME.
+game decided : rupunzel maze game
+matters discussed :
+1. story- rapunzel locked in a tower and the prince will have to cross the maze to get to and rescue the princess.
+2. characters- prince(pc)
+               princess(npc)
+3. rules- 1. you cannot touch the walls of the maze, if you do you lose a life
+          2. you have to stay away from the obstacles, if you do you again lose a life.
+          3. coins to be collected.
+4. adaptations- 1. we will add levels
+                2. we will add a witch that will block the way to the tower
+                4. addition of weapons to be collected and used to fight against witch in higher levels.
+5. element of chance- random obstacles 
+6. element of skill- how you survive through the obstacles.
+7. feedback- everytime a coin is collected, a fun sound could be played
+    
+        
